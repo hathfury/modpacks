@@ -329,6 +329,11 @@ hash = "3ee0997f44ac5da5e59d66f81a1f4bf38322743e400ab5fa4abbfca759ed2066"
 metafile = true
 
 [[files]]
+file = "mods/project-mmo.pw.toml"
+hash = "64211ca4947c1dc95db2d65adf58406ad897e8209e7cfd10c209c934a1e40b88"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
