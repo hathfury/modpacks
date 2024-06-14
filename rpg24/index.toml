@@ -20,26 +20,6 @@ hash = "b754aa5de7d8f5deb791c2cf33dc00c81760bcc051e95fe24d1ad64fc5b83adf"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-core.pw.toml"
-hash = "fd1203b4885f81403c3fdebd1d6c71b3139aa04dc08af2b15f4fc8bd0ff504fe"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-items.pw.toml"
-hash = "b161fa7712f5333fba4f962ee9b530c5c1074cb40470b932797d7f9eae016260"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-player.pw.toml"
-hash = "91cdde232d112990062ca0164b0960225010c02ed40a969f3126b67d98b489cb"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "81a967aa2b8eaac487d620df6b669ae51740c7a6fb66c6ad2e888dd5d3867e33"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -122,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
@@ -212,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
 metafile = true
 
 [[files]]
