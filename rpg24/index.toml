@@ -5,6 +5,11 @@ file = "config/mysticsbiomes-common.toml"
 hash = "032921ba825f29d28a5cb76975fdeaf9f12cb1f28421ee4b7dacc142efda445b"
 
 [[files]]
+file = "config/paxi/datapacks/create-immersive-aircrafts-warship-recipe.pw.toml"
+hash = "dae6a238af6db64b96e8c05ac810fea0136ee02b0d8dc9644409ad12c0092a59"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
 hash = "bd9faf66e433722b4fb8afda919997fd6e6aa23816e3a4c7e8d72bfd31859565"
 metafile = true
@@ -289,6 +294,11 @@ hash = "8990510055e6dd69379ccf1028b823fcaf972c108e997b3173f5b4dc66db4254"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
@@ -499,6 +509,11 @@ hash = "f52d8e9112c9f100b7967635cd2bfe1cbbe44a27b6fc26bec2ff3e28fad8cd13"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "1e8bf8267c4aa59ef5220f2bf8c6d47373c7ce32afdc792d4cc1201f2b74933b"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
@@ -636,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircraft-warship.pw.toml"
+hash = "7d4e7744d7f7c7ed5dad3f47b755d8ba9b0b637d9cc671184972b036891d538f"
 metafile = true
 
 [[files]]
