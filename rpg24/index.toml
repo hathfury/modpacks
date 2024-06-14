@@ -56,6 +56,11 @@ hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
 
 [[files]]
+file = "mods/better-village-forge.pw.toml"
+hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "89cf2752e6ae71cfeac2f6e1a9a6b4f7fc73c5b0bb32d1518338aef19010a74c"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "df16edf3d7ad513c6c5b76984ab1db4081f422aa2cef26e055e35e428b4bc4e1"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
 metafile = true
 
 [[files]]
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "be567e2446089e2772e1b894ce688c5e914e5a0281002cc43aeab48e247e9688"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-forge.pw.toml"
+hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
@@ -311,6 +326,16 @@ hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]
+file = "mods/villager-names.pw.toml"
+hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus-forge.pw.toml"
+hash = "2d79b89befc8c928d17064588fa931129f39da52b668a94edbf6a5518c82ea4d"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "0604af4500f5e7ea46e38f7faef3459023c305b3155eacbf406e600073f643d9"
 metafile = true
@@ -368,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctov-villagers-plus-compat.pw.toml"
+hash = "3fa62cac984c8e59dabdd5bc9ea6df52d507028ac76e115093466d1a3e02ef03"
 metafile = true
 
 [[files]]
