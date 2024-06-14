@@ -1,6 +1,6 @@
 name = "No See, No Tick"
 filename = "NoSeeNoTick-2.0.0-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
