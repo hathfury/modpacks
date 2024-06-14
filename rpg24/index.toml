@@ -1,23 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
@@ -58,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
@@ -118,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "99e1ea6e06a92080c984a4aa7309a33cb8b31089a2556013ef43f25b40c6203d"
 metafile = true
 
 [[files]]
