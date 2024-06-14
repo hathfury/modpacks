@@ -3,5 +3,6 @@ filename = "Structory_Towers_1.20_v1.0.7.zip"
 side = "both"
 
 [download]
+url = "https://www.stardustlabs.net/s/Structory_Towers_120_v107.zip"
 hash-format = "sha256"
 hash = "55d41299fe7e7f72750668922a0eae5c97fcaaf2c355af0d5b5fac580ff9c76c"
