@@ -84,6 +84,16 @@ hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "70203eccb52079014b1438e6488730cebb84e52aa0daf516211b4587a49bdb1e"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "4337eaad4e8c07a6faed08a344c088aefa38b3e8e41e5a07611195aa2560e939"
 metafile = true
@@ -129,6 +139,11 @@ hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -146,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
@@ -204,6 +224,11 @@ hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "e19e778b75bd83958e62b7902c92e83f1095c20e07551ebc9917068895294721"
+metafile = true
+
+[[files]]
 file = "mods/fps-monitor.pw.toml"
 hash = "b3a7be405919d5cdf64d6c9ae5b8d520a9b3eae5a82ed7e555f8cd9b06813a7a"
 metafile = true
@@ -216,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
+metafile = true
+
+[[files]]
+file = "mods/horse-statistics.pw.toml"
+hash = "68384619db430999a4a5903c2b344e8fe2f5f7dc5c23a3495819268124ee85ba"
 metafile = true
 
 [[files]]
@@ -236,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "9e3c25c23c702d64a9e826e8cea8e2e941d2252eeabe72d94d73a25fde7904b3"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
 metafile = true
 
 [[files]]
@@ -294,6 +329,16 @@ hash = "988c14c1f21cd9bb29463da59a3ea67b8307bc88cc2bbaac35000acb6a2bb8c5"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
+metafile = true
+
+[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
 metafile = true
@@ -319,8 +364,18 @@ hash = "009a6e264409c67bfdbfa0951d5026e19a245b20199191c293ff3670e7e13045"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
+metafile = true
+
+[[files]]
 file = "mods/mystics-biomes.pw.toml"
 hash = "90f796c8177fdea82b7bbdcb0f291fce05532f796897354e75b301fcec9907da"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
@@ -419,6 +474,16 @@ hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "8ef8fa9e90e174db046f4abfbe2b11e4c978e909c6a4342f3cb1d99176b95a54"
+metafile = true
+
+[[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "297ffd0a7ccc9c2cc243dca218122359d256302b0d1d6f2ffffacdae68a3bcc1"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fd3d76e442d46444722e2a38eda6b1bd49fd23e874bb3b08c42ccf316d053431"
 metafile = true
@@ -461,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "cedbe6626be64f92f80bb5cdf40bd50a2b5a11c211daf691669d313476cd3a66"
 metafile = true
 
 [[files]]
