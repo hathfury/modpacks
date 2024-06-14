@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mysticsbiomes-common.toml"
+hash = "032921ba825f29d28a5cb76975fdeaf9f12cb1f28421ee4b7dacc142efda445b"
+
+[[files]]
 file = "config/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
 hash = "bd9faf66e433722b4fb8afda919997fd6e6aa23816e3a4c7e8d72bfd31859565"
 metafile = true
@@ -48,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "99e547e5d79615e639a335f349298503c366afbe92dc16b28c09f6f952369946"
 metafile = true
 
 [[files]]
