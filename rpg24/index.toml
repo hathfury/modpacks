@@ -384,6 +384,11 @@ hash = "c2e05016968c20cd6e7d7395daa52b2c39192272898c678469c2aa28c2daf896"
 metafile = true
 
 [[files]]
+file = "mods/rpg-hud.pw.toml"
+hash = "1981e83d3dc62529162440eb52f9af62ec36c2c2b195bc7dbff1d6fb52dad994"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
 metafile = true
