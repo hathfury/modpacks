@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/structory-towers.pw.toml"
-hash = "8f2aca9f2192ee9117b0423bc85095db41e735edef36b2347fa18b105133b781"
+hash = "f1c3d280c565a2a84916d86fa34bef9ef52858d997cc8e2109a73dfc5a2486fa"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/structory.pw.toml"
-hash = "a082e6cca99eb1638b4f8ace43b594018ab9e157b03d41d2c123109aa729afdf"
+hash = "b754aa5de7d8f5deb791c2cf33dc00c81760bcc051e95fe24d1ad64fc5b83adf"
 metafile = true
 
 [[files]]
