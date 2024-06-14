@@ -400,6 +400,11 @@ hash = "54fde311583003790c01f03136f185d2d61fab6dff4ccb5ff19a0a23503fbf3b"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "0604af4500f5e7ea46e38f7faef3459023c305b3155eacbf406e600073f643d9"
 metafile = true
