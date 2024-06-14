@@ -264,3 +264,8 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "e74c97603f36a8a204afe5c7dfd04e55eaf91aa617ed565acdd2aa791e2c0bb8"
 metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "edb28faeb99c531d9bd2b54f3aafc67cd2ccc0de4649cc8d1dc9f39eafff40af"
+metafile = true
