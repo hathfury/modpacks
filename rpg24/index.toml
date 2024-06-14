@@ -166,6 +166,16 @@ hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "9e3c25c23c702d64a9e826e8cea8e2e941d2252eeabe72d94d73a25fde7904b3"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "951a4a6232f864acf04aca8d17f3233ec1a2be9a8b7928239a7a9e2faebb42c0"
 metafile = true
@@ -231,6 +241,11 @@ hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "5c7ee8087f34a772f35c16856c396818db9731c0e5b622a64e99519e1d0826d0"
 metafile = true
@@ -268,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fd3d76e442d46444722e2a38eda6b1bd49fd23e874bb3b08c42ccf316d053431"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "27261465cc776a6ba86a4a01661adb45d6269be806829a46755a5eb95de2f1e7"
 metafile = true
 
 [[files]]
@@ -333,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
 
 [[files]]
