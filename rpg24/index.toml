@@ -31,6 +31,16 @@ hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
+metafile = true
+
+[[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "a81b55c3e33ab58d7b9af0f65728b24f11357b81d7ce567038a274f85c7dba92"
 metafile = true
@@ -161,8 +171,18 @@ hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
 metafile = true
 
 [[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
@@ -218,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
