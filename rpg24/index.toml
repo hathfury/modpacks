@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "170a8817f93b22938e19e75afc44cc9d42f0ced575ce3c3dc9b3a2fee102f657"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "e74c97603f36a8a204afe5c7dfd04e55eaf91aa617ed565acdd2aa791e2c0bb8"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
@@ -83,4 +73,14 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "170a8817f93b22938e19e75afc44cc9d42f0ced575ce3c3dc9b3a2fee102f657"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "e74c97603f36a8a204afe5c7dfd04e55eaf91aa617ed565acdd2aa791e2c0bb8"
 metafile = true
