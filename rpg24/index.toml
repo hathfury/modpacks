@@ -2,5 +2,5 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fps-monitor.pw.toml"
-hash = "b8c5502b525d395e30dfdff69128a10bd3936e05f2610bdcbca568cab54bdd35"
+hash = "b3a7be405919d5cdf64d6c9ae5b8d520a9b3eae5a82ed7e555f8cd9b06813a7a"
 metafile = true
