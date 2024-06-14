@@ -75,6 +75,11 @@ hash = "a81b55c3e33ab58d7b9af0f65728b24f11357b81d7ce567038a274f85c7dba92"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "c8fc88380a68f5254e7f6cd84b30d83ecd6e621b50e116455800b0d799da144d"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "df16edf3d7ad513c6c5b76984ab1db4081f422aa2cef26e055e35e428b4bc4e1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
@@ -312,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
