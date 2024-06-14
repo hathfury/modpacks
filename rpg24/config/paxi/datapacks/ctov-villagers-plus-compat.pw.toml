@@ -3,11 +3,11 @@ filename = "ctov-villager-plus-add-on-v2-0.zip"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/UiaFErsS/versions/euk0xaRL/ctov-villager-plus-add-on-v2-0.zip"
 hash-format = "sha1"
 hash = "7ccd730ae97e689309305ac0cef50ff6285d5ff2"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4602567
-project-id = 872654
+[update.modrinth]
+mod-id = "UiaFErsS"
+version = "euk0xaRL"

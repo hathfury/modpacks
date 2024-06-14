@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
+hash = "bd9faf66e433722b4fb8afda919997fd6e6aa23816e3a4c7e8d72bfd31859565"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/structory-towers.pw.toml"
+hash = "8f2aca9f2192ee9117b0423bc85095db41e735edef36b2347fa18b105133b781"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/structory.pw.toml"
+hash = "a082e6cca99eb1638b4f8ace43b594018ab9e157b03d41d2c123109aa729afdf"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "fd1203b4885f81403c3fdebd1d6c71b3139aa04dc08af2b15f4fc8bd0ff504fe"
 metafile = true
@@ -62,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/blossom-blade.pw.toml"
-hash = "89cf2752e6ae71cfeac2f6e1a9a6b4f7fc73c5b0bb32d1518338aef19010a74c"
+hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
@@ -252,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystics-biomes.pw.toml"
-hash = "9f0340eca8eb24d7c3ad6d9821af1baf552dca88ab29b43a746d303d35af24cc"
+hash = "90f796c8177fdea82b7bbdcb0f291fce05532f796897354e75b301fcec9907da"
 metafile = true
 
 [[files]]
@@ -278,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
 metafile = true
 
 [[files]]
@@ -321,16 +341,6 @@ hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fd3d76e442d46444722e2a38eda6b1bd49fd23e874bb3b08c42ccf316d053431"
 metafile = true
@@ -342,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
 metafile = true
 
 [[files]]
@@ -351,8 +361,8 @@ hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "4d2a9da7c09a85448943858dfe66fdbf6b2b262acd28ed4055d620ceb560da18"
+file = "mods/totw-modded.pw.toml"
+hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
 
 [[files]]
@@ -366,8 +376,8 @@ hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
 metafile = true
 
 [[files]]
-file = "mods/villagersplus-forge.pw.toml"
-hash = "2d79b89befc8c928d17064588fa931129f39da52b668a94edbf6a5518c82ea4d"
+file = "mods/villagersplus.pw.toml"
+hash = "54fde311583003790c01f03136f185d2d61fab6dff4ccb5ff19a0a23503fbf3b"
 metafile = true
 
 [[files]]
@@ -428,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctov-villagers-plus-compat.pw.toml"
-hash = "3fa62cac984c8e59dabdd5bc9ea6df52d507028ac76e115093466d1a3e02ef03"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "Structory"
+filename = "Structory_1.20_v1.3.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "f84a6cece9c2f63ba343cdf1dce8f7d29dc02b9c850111ea42a7de8a29b4046d"
