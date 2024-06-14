@@ -26,6 +26,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "96e8edb78ff7965d41045e2efbe659d4e4f60b77eb79456d4e8f45342a3f91d6"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
@@ -51,6 +56,11 @@ hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
 
 [[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "89cf2752e6ae71cfeac2f6e1a9a6b4f7fc73c5b0bb32d1518338aef19010a74c"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "6ba0a46190b8fa084ff444bc045eb4b3ea45597f7fd3aecb919cdda34c9533a9"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "a955e3695047fa8d2c25bf1fb47d1cad55fff1b4d94d4273e60da84a1d7b4736"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
@@ -178,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+metafile = true
+
+[[files]]
+file = "mods/mystics-biomes.pw.toml"
+hash = "9f0340eca8eb24d7c3ad6d9821af1baf552dca88ab29b43a746d303d35af24cc"
 metafile = true
 
 [[files]]
