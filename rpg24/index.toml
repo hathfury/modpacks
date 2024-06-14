@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fps-monitor.pw.toml"
+hash = "b8c5502b525d395e30dfdff69128a10bd3936e05f2610bdcbca568cab54bdd35"
+metafile = true
