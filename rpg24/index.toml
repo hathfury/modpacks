@@ -20,6 +20,10 @@ hash = "b754aa5de7d8f5deb791c2cf33dc00c81760bcc051e95fe24d1ad64fc5b83adf"
 metafile = true
 
 [[files]]
+file = "emotes/sit.animation.json"
+hash = "01b32806043bfe5eb115b7d7ce1c3395fe6ff494cf0f46fc9321d4ef68df2cbe"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -157,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "fed84b7b81eea69bbc43dac02e0d6ff0b7eb1576b3c22053fd6ebf72c5b4774c"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
 
 [[files]]
@@ -347,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "e3bf82308855f7de46696f793f1fbd71f2c610647bcb9e30bcfa6c4c388e8a97"
+metafile = true
+
+[[files]]
+file = "mods/sitting.pw.toml"
+hash = "f52d8e9112c9f100b7967635cd2bfe1cbbe44a27b6fc26bec2ff3e28fad8cd13"
 metafile = true
 
 [[files]]
