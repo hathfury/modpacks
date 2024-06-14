@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
