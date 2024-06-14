@@ -116,6 +116,11 @@ hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
 metafile = true
