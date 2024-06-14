@@ -1,6 +1,41 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "fd1203b4885f81403c3fdebd1d6c71b3139aa04dc08af2b15f4fc8bd0ff504fe"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "b161fa7712f5333fba4f962ee9b530c5c1074cb40470b932797d7f9eae016260"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "91cdde232d112990062ca0164b0960225010c02ed40a969f3126b67d98b489cb"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "81a967aa2b8eaac487d620df6b669ae51740c7a6fb66c6ad2e888dd5d3867e33"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "a81b55c3e33ab58d7b9af0f65728b24f11357b81d7ce567038a274f85c7dba92"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
@@ -16,6 +51,16 @@ hash = "6ba0a46190b8fa084ff444bc045eb4b3ea45597f7fd3aecb919cdda34c9533a9"
 metafile = true
 
 [[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "df16edf3d7ad513c6c5b76984ab1db4081f422aa2cef26e055e35e428b4bc4e1"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
+metafile = true
+
+[[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
 hash = "b66926151f932f950641ea876a24887366b21aa9d75fb450367a77e74e17e889"
 metafile = true
@@ -23,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "88853e9cfc19a1b870f9d18d5870663cac7913f2c351232a01e93752e9f2f152"
 metafile = true
 
 [[files]]
@@ -36,8 +86,23 @@ hash = "fed84b7b81eea69bbc43dac02e0d6ff0b7eb1576b3c22053fd6ebf72c5b4774c"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "dc3d7cbb85ea7b62a7e4d37a09e731f71e6d68a0a24c36dbc8f56bf6e9028c23"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "740b7eb6b14269b52ea93e294b18a1d9145e9ebdea10689d781487233272275b"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "a42fdedc362ee0f999f5390ed23e340d38c4dacccc32b47df6521f5ab128a529"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
@@ -46,8 +111,18 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
+metafile = true
+
+[[files]]
 file = "mods/fps-monitor.pw.toml"
 hash = "b3a7be405919d5cdf64d6c9ae5b8d520a9b3eae5a82ed7e555f8cd9b06813a7a"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
@@ -61,13 +136,38 @@ hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "951a4a6232f864acf04aca8d17f3233ec1a2be9a8b7928239a7a9e2faebb42c0"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "ba3aa25a5f522e55225ad0bc52bc4011864ad5fe24ca25dbea32fb7dde29753f"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "be567e2446089e2772e1b894ce688c5e914e5a0281002cc43aeab48e247e9688"
+metafile = true
+
+[[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "662740d6fee8d8b38dcfd040d62ab897090084bf9fbe1578a70ae5692d898501"
 metafile = true
 
 [[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+metafile = true
+
+[[files]]
+file = "mods/no-see-no-tick.pw.toml"
+hash = "75f38a8f7432aa2e2ec9d7b3320e67c9f01fb9480c37dfda816d65e805fdd47d"
 metafile = true
 
 [[files]]
@@ -91,6 +191,11 @@ hash = "5c7ee8087f34a772f35c16856c396818db9731c0e5b622a64e99519e1d0826d0"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "387dc9dc75acd75b4fba4736307e2de6991567ad364bcfb5dc992c6b3acf5f44"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "c2e05016968c20cd6e7d7395daa52b2c39192272898c678469c2aa28c2daf896"
 metafile = true
@@ -98,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "e3bf82308855f7de46696f793f1fbd71f2c610647bcb9e30bcfa6c4c388e8a97"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
 
 [[files]]
