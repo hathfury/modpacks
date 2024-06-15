@@ -594,6 +594,11 @@ hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
 
 [[files]]
+file = "mods/spells-shields.pw.toml"
+hash = "6c0401ccc1a213d1f67f01effcb9265569c22684eab0e88df66b2df067b0c269"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "8ef8fa9e90e174db046f4abfbe2b11e4c978e909c6a4342f3cb1d99176b95a54"
 metafile = true
