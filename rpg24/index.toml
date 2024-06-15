@@ -54,6 +54,16 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ce0e9fa014aa89feba5a400cdf445299f7c1450fff978b15dbd72fbc8cec7552"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "9213eaaca144e07c14322982367dffdb3c75fd9eba8d8a82f55c7002e0067e44"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
@@ -224,6 +234,11 @@ hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "a1340ef019c460151263a2a5ea7093a87d4a89dedd89cc099c98027f2869790b"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "740b7eb6b14269b52ea93e294b18a1d9145e9ebdea10689d781487233272275b"
 metafile = true
@@ -296,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
@@ -404,8 +424,18 @@ hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
+metafile = true
+
+[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "f185653c659514dd5aa81a0ab175e2b777d20e7213ff6014db1ecb64f5f9f5d1"
 metafile = true
 
 [[files]]
