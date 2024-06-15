@@ -74,6 +74,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
 metafile = true
@@ -221,6 +226,16 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "fed84b7b81eea69bbc43dac02e0d6ff0b7eb1576b3c22053fd6ebf72c5b4774c"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5347e3fce499c95b94f49ba441b279d75b371f6a3e409edeff5769f9918353a8"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "9c40d93faafec73d656e5ddbc89a63add1777baccbeb839be1a5fb1247430ae8"
 metafile = true
 
 [[files]]
