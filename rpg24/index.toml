@@ -5,11 +5,6 @@ file = "config/mysticsbiomes-common.toml"
 hash = "032921ba825f29d28a5cb76975fdeaf9f12cb1f28421ee4b7dacc142efda445b"
 
 [[files]]
-file = "config/paxi/datapacks/create-immersive-aircrafts-warship-recipe.pw.toml"
-hash = "dae6a238af6db64b96e8c05ac810fea0136ee02b0d8dc9644409ad12c0092a59"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
 hash = "bd9faf66e433722b4fb8afda919997fd6e6aa23816e3a4c7e8d72bfd31859565"
 metafile = true
@@ -651,11 +646,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-immersive-aircraft-warship.pw.toml"
-hash = "7d4e7744d7f7c7ed5dad3f47b755d8ba9b0b637d9cc671184972b036891d538f"
 metafile = true
 
 [[files]]
