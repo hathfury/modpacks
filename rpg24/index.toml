@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/totw-modded.pw.toml"
-hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
+hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
 metafile = true
 
 [[files]]
