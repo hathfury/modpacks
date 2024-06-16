@@ -69,6 +69,11 @@ hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
 
 [[files]]
+file = "mods/ageing-spawners.pw.toml"
+hash = "626f03f4edae9b421165bac66cb54a30a9c2182eda69ebbac5dd838c6e5fd63d"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "267776d150b92091ac03ea3212991954fc6c463bc2f714fd39b6f938a11a52d6"
 metafile = true
 
 [[files]]
@@ -254,6 +264,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "3dab38e974d5ef738267cd299f2cc14d6b7db1dce9b7d77344e9093a7201113b"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
 metafile = true
@@ -384,6 +399,11 @@ hash = "a3731f3b53d9f292a68d2dfe1d0db3d59b64879a348036e6021ad3d12f219a43"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "159bc1a0db85a8dfe15d1117588455d7301eb6c1f8ba0cda29c52d828b53bb91"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
@@ -494,6 +514,11 @@ hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
 metafile = true
@@ -574,6 +599,11 @@ hash = "1e68ed98d9756878824419128b1cb77366c50fc829028ea8ef00aca557cd33dd"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
@@ -586,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "ef1706c2908bd1b66bf1c64eebd77f84162d248060c94760f0c25ed194726c5f"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "39880e14c5b46496c6c9fd5cdeed67bca74bb99de9f273270918184a525d0942"
 metafile = true
 
 [[files]]
@@ -704,6 +739,11 @@ hash = "8e6b9d8f865cd23aa6bfd31e04c1fa4dc8727f714ee915e901362a2bf1fb0ffd"
 metafile = true
 
 [[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "47df5c1deae2b57313f1e1f42ca0b9a69eaf97fb3052bc89e716416007d3f3a3"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "7c3daed5cb51e9706cabc4da62eadbb49e6e590e6e5ffaf049e3d85e4623a012"
 metafile = true
@@ -721,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-gaia.pw.toml"
+hash = "ac3156ac8763ec4c44ef00b4e6afbc3c621a43fe226a96bb86298325eed7cca1"
 metafile = true
 
 [[files]]
@@ -1039,6 +1084,11 @@ hash = "e3c4726af5806e832bdf27b7f4f61bb5ca37477390f8307a6d9371a64e5e6176"
 metafile = true
 
 [[files]]
+file = "mods/monsters-girls-mushroom-update.pw.toml"
+hash = "276c1f75bb88deebe00ea3ecbd56f8e37f6faaed76ca2f750eeea4ab4ac64a68"
+metafile = true
+
+[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "d489b3d0e04cd9da69ff328987c3abb8a1303cf760a6bbb799d559e6ffc77d80"
 metafile = true
@@ -1051,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 hash = "e1114bf5695f17f488698149bad703a83ca0225037eb19b3a03be3fd8c984c9a"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "e8dcf2468e5b23c5ed71ce8c6e5d48ae70b9cb3281eab6c35401b0beecfc8a1c"
 metafile = true
 
 [[files]]
@@ -1076,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/mystics-biomes.pw.toml"
 hash = "90f796c8177fdea82b7bbdcb0f291fce05532f796897354e75b301fcec9907da"
+metafile = true
+
+[[files]]
+file = "mods/naturally-charged-creepers.pw.toml"
+hash = "5f054cb2bbae367133ae923eb56dfa96c974d0922ce0b2f88dd429afaaf302c2"
 metafile = true
 
 [[files]]
@@ -1126,6 +1186,16 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
+file = "mods/piglin-proliferation.pw.toml"
+hash = "696363133fc81d8956de993ef778b5faed55d7d792d47f841ec40db13755b5f6"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
 
 [[files]]
@@ -1191,6 +1261,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "5c7ee8087f34a772f35c16856c396818db9731c0e5b622a64e99519e1d0826d0"
+metafile = true
+
+[[files]]
+file = "mods/raided.pw.toml"
+hash = "76bbdab76d9169a21aa4a33b04fa0b41e761e946da59e68989da5c406b7984db"
 metafile = true
 
 [[files]]
@@ -1266,6 +1341,11 @@ metafile = true
 [[files]]
 file = "mods/sitting.pw.toml"
 hash = "f52d8e9112c9f100b7967635cd2bfe1cbbe44a27b6fc26bec2ff3e28fad8cd13"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-horse-spawn.pw.toml"
+hash = "98f0bbe93066617c7598e68ffc39224d00745247de7d966945db6b7c7f619076"
 metafile = true
 
 [[files]]
@@ -1511,6 +1591,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+metafile = true
+
+[[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "bbd2d5423245721c5434f968b79bd8b02d1dd455866ac7571124beb9c9ea9901"
 metafile = true
 
 [[files]]
