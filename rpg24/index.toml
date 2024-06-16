@@ -194,13 +194,28 @@ hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
 metafile = true
 
 [[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "f6613ae7fa1401f85d2f902d2351b43dce965c9e3ab0881deb06b7ccfe9e78a2"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
@@ -334,6 +349,11 @@ hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
 
 [[files]]
+file = "mods/ender-trigon.pw.toml"
+hash = "1e68ed98d9756878824419128b1cb77366c50fc829028ea8ef00aca557cd33dd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
@@ -434,6 +454,11 @@ hash = "68384619db430999a4a5903c2b344e8fe2f5f7dc5c23a3495819268124ee85ba"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8990510055e6dd69379ccf1028b823fcaf972c108e997b3173f5b4dc66db4254"
 metafile = true
@@ -514,6 +539,11 @@ hash = "ba3aa25a5f522e55225ad0bc52bc4011864ad5fe24ca25dbea32fb7dde29753f"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "2ba0f3804faaad224e23af01d7beaafa9436befcb121568ec8c5b5b513e14420"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "be567e2446089e2772e1b894ce688c5e914e5a0281002cc43aeab48e247e9688"
 metafile = true
@@ -526,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "662740d6fee8d8b38dcfd040d62ab897090084bf9fbe1578a70ae5692d898501"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
 metafile = true
 
 [[files]]
@@ -569,6 +604,16 @@ hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
 metafile = true
 
 [[files]]
+file = "mods/mokels-bossfight-kinora.pw.toml"
+hash = "9120f25eb6bf3598f51762ec5926055de9046162e62380757f3dd5924348ac5e"
+metafile = true
+
+[[files]]
+file = "mods/mokels-bossfight-saphyra.pw.toml"
+hash = "e3c4726af5806e832bdf27b7f4f61bb5ca37477390f8307a6d9371a64e5e6176"
+metafile = true
+
+[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "d489b3d0e04cd9da69ff328987c3abb8a1303cf760a6bbb799d559e6ffc77d80"
 metafile = true
@@ -581,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
 metafile = true
 
 [[files]]
@@ -654,6 +704,11 @@ hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
 
 [[files]]
+file = "mods/queen-bee.pw.toml"
+hash = "37c36c17ffcab84146bc5310ec975147c5305c5844400006fc962bffbf344b61"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "5c7ee8087f34a772f35c16856c396818db9731c0e5b622a64e99519e1d0826d0"
 metafile = true
@@ -691,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "f21b3af1439bc9a3d36dff594da3bb1e0db37e679fc11e6d822e4dc2cb5c2aee"
 metafile = true
 
 [[files]]
