@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-forge.pw.toml"
-hash = "b452fc877ad16f35cf274f3945ec7eb46d645be3d76bd506858b263ce09332ce"
+hash = "6d120e37e9bce55fdd8b209265863dfcc6b64ac9cdf4e3afaa7dc9be08db2978"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat_jam.pw.toml"
-hash = "4b20da8bda4c52d9ef8aeb33d78da7f5b112c77de1154f3b3eb51615d5ba7582"
+hash = "0bc7348260d1feda210b4bad4b492ef983a1c09597c1908287cbdb7e6e0a82f5"
 metafile = true
 
 [[files]]
@@ -1330,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
+hash = "f492234f85af916bd709afec40e70dd74a7b72fee7d0b0fb08ee297f3e7be681"
 metafile = true
 
 [[files]]
@@ -1445,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams.pw.toml"
-hash = "0e139381fabdc46a2aa195db7e2dad90e4b2518b3efb10394317bb8023d5d54e"
+hash = "154db7b13596de00401df478f001ad5f476ee01fbd00809617359119275c6412"
 metafile = true
 
 [[files]]
@@ -1660,7 +1660,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "719d6289c5c0a0ada27b685b5ec099a8d6a7c3dd41e167eb2bd28ac8d7ff4e40"
+hash = "40937a4740d823c55cfb62505c8ced0dcc3cf35bc8b86465b48f5d799b69a340"
 metafile = true
 
 [[files]]
@@ -2420,7 +2420,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "4e34eaf92b3e06d2ad4dfb6b7630bc583a0c113498088efb9c8b446562d709e9"
+hash = "9aa05adbab4c4aa796627738b5453de789b53b4c9c5919509618905f43ff826f"
 metafile = true
 
 [[files]]
