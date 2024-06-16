@@ -34,6 +34,31 @@ hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
 
 [[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
+metafile = true
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "ed88ff8d8111174623af52bd66ac8d1edf7f29f62f87ae320be6958534b5afa5"
+metafile = true
+
+[[files]]
+file = "mods/aether-redux.pw.toml"
+hash = "c6f7cb5c6f80a0c1901ff5e8f23bea8eeabfab7934d8cf154b8132c8730268e8"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -224,6 +249,11 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "90a8a0c66d04bb3704f96af1bfaef5fac6c30cb1d2b9610563d76a3c58fbdb13"
+metafile = true
+
+[[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
 hash = "88853e9cfc19a1b870f9d18d5870663cac7913f2c351232a01e93752e9f2f152"
 metafile = true
@@ -336,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7c3daed5cb51e9706cabc4da62eadbb49e6e590e6e5ffaf049e3d85e4623a012"
 metafile = true
 
 [[files]]
@@ -639,13 +674,18 @@ hash = "fd3d76e442d46444722e2a38eda6b1bd49fd23e874bb3b08c42ccf316d053431"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "27261465cc776a6ba86a4a01661adb45d6269be806829a46755a5eb95de2f1e7"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
+hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
 metafile = true
 
 [[files]]
