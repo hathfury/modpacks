@@ -24,6 +24,16 @@ file = "emotes/sit.animation.json"
 hash = "01b32806043bfe5eb115b7d7ce1c3395fe6ff494cf0f46fc9321d4ef68df2cbe"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "b6e76a4bd799f6c932a4c925c5e6b4414e4f966cdeaf1c819d16a02bb1b31e96"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -111,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
 metafile = true
 
 [[files]]
@@ -556,6 +571,16 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "c2e05016968c20cd6e7d7395daa52b2c39192272898c678469c2aa28c2daf896"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
 metafile = true
 
 [[files]]
