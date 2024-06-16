@@ -1184,6 +1184,11 @@ hash = "25a898a7d5ea660c4104734fb18c33de91d465f0acf518a0f5df18b20f8385de"
 metafile = true
 
 [[files]]
+file = "mods/item-production-lib.pw.toml"
+hash = "15965344525e18aa5c36186572f69f3d597566fd22846401b892c8e5b8eeb0ae"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
@@ -1661,6 +1666,16 @@ metafile = true
 [[files]]
 file = "mods/parcool.pw.toml"
 hash = "49ce1663227c8d86f1e6cdc3db38f632691182cc257d6cc390d77b52598057ea"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree-additions.pw.toml"
+hash = "a903d42d7559a6cdf01370da77fdc27fb15046cdcc4ab2319703fee5bd843922"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "90396c887acd6fc48d08fece86063c2a970643c03e594db4a597725583b5c921"
 metafile = true
 
 [[files]]
