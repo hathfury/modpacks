@@ -479,6 +479,11 @@ hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "5f979818cf342fc9e8adba5e84c0ec033389c30eb862958d7a147c9fcf77483b"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -1064,6 +1069,11 @@ hash = "d53e9c8450f0e98c7f87f949707c9720783d090a60ed5dd4e711647fdae43f26"
 metafile = true
 
 [[files]]
+file = "mods/jumpy-boats.pw.toml"
+hash = "29725b9b5379532112f94a3007b2c18ad1cd62be650de78e7574a73eabc98afb"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "1d71247c860cc4caabc969bca182eb3325db0729886a6491e8f805880f45b2c8"
 metafile = true
@@ -1486,6 +1496,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "e0d9db82e60f58d505d8fdb2cc2e0ed73510385582c2ca10e7934fd9fb81517e"
+metafile = true
+
+[[files]]
+file = "mods/parcool.pw.toml"
+hash = "49ce1663227c8d86f1e6cdc3db38f632691182cc257d6cc390d77b52598057ea"
 metafile = true
 
 [[files]]
