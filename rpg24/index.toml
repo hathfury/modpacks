@@ -144,6 +144,16 @@ hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
 metafile = true
 
 [[files]]
+file = "mods/anti-cheese.pw.toml"
+hash = "f3a526337e6500a22ccbc0793a742882fd4f863de293ee85218b51498e50efa0"
+metafile = true
+
+[[files]]
+file = "mods/anti-mob-cheese.pw.toml"
+hash = "a1ae07f397f20a79867bbdc488479f8105d0a8520e316b7830ccd551b12b59e5"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "267776d150b92091ac03ea3212991954fc6c463bc2f714fd39b6f938a11a52d6"
 metafile = true
@@ -569,6 +579,11 @@ hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -751,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "90a8a0c66d04bb3704f96af1bfaef5fac6c30cb1d2b9610563d76a3c58fbdb13"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
 
 [[files]]
@@ -991,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
+file = "mods/forgery.pw.toml"
+hash = "b54cd26cb43e0706e99485ce1240d59fed7bf7d20707af00453ea56f4d674f4d"
 metafile = true
 
 [[files]]
@@ -1379,6 +1404,11 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
+file = "mods/library-of-exile.pw.toml"
+hash = "07347820906ef3943603517626bb6a32d96a9b1e79142a1c5db67d3ad198a275"
+metafile = true
+
+[[files]]
 file = "mods/libre-exp-fix.pw.toml"
 hash = "2df749972ffc9084f19f4097bd1c6a99af01ab0d88cf367e8bcba53be8069506"
 metafile = true
@@ -1506,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "bce56a595682b811d74cc4e30a0104927723a4375135d255d3cdfa158b2a0669"
 metafile = true
 
 [[files]]
@@ -1996,6 +2031,11 @@ metafile = true
 [[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
 hash = "98f0bbe93066617c7598e68ffc39224d00745247de7d966945db6b7c7f619076"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "aa5b9796544a7f41e7e4a7ad59cdf8d672c1b99d0784a35f1a339a940266249f"
 metafile = true
 
 [[files]]
