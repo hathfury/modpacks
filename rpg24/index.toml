@@ -694,6 +694,11 @@ hash = "1739bc18a61b542713cf22788a8697e5813d98901248be584e1c8b60db3b185f"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
