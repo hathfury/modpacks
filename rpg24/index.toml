@@ -249,6 +249,11 @@ hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
 metafile = true
@@ -256,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "79e8f00ded5245e95e096c1b764ebd8bb4dd1b5eeeae6ce89d97d5d07e662ed3"
 metafile = true
 
 [[files]]
@@ -341,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
+file = "mods/coins-je.pw.toml"
+hash = "9481f5654fdccd53ad5497ee2546c22431565ee888e072de7d3cea5fb8d32f63"
 metafile = true
 
 [[files]]
@@ -564,6 +579,11 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
+file = "mods/endremastered.pw.toml"
+hash = "48c89e386fe1dc47dedfce02ccbc9a55ca899e94348ae470a77b3b7022496a58"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "ef1706c2908bd1b66bf1c64eebd77f84162d248060c94760f0c25ed194726c5f"
 metafile = true
@@ -674,6 +694,11 @@ hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
 metafile = true
 
 [[files]]
+file = "mods/game-stages.pw.toml"
+hash = "8e6b9d8f865cd23aa6bfd31e04c1fa4dc8727f714ee915e901362a2bf1fb0ffd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "7c3daed5cb51e9706cabc4da62eadbb49e6e590e6e5ffaf049e3d85e4623a012"
 metafile = true
@@ -776,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
 
 [[files]]
@@ -1114,6 +1144,11 @@ hash = "17ca8c876458e981a090a146e2b175345c62eea82828947037513b7d99649bec"
 metafile = true
 
 [[files]]
+file = "mods/project-mmo-xp-bottles.pw.toml"
+hash = "9ea435e2112a786d62cfac5227659ea5e7aea2229cbf07d46a169699193a4f05"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo.pw.toml"
 hash = "64211ca4947c1dc95db2d65adf58406ad897e8209e7cfd10c209c934a1e40b88"
 metafile = true
@@ -1156,6 +1191,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "387dc9dc75acd75b4fba4736307e2de6991567ad364bcfb5dc992c6b3acf5f44"
+metafile = true
+
+[[files]]
+file = "mods/recipe-stages.pw.toml"
+hash = "5163f0269a2aec05fe845f4d97f084ddb47fd45a941cad6116e2dc9a46eb136b"
 metafile = true
 
 [[files]]
