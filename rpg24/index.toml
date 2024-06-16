@@ -1979,6 +1979,11 @@ hash = "6c0401ccc1a213d1f67f01effcb9265569c22684eab0e88df66b2df067b0c269"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-apple-pie-edition.pw.toml"
+hash = "2e57bb84178b5af2717a1d43b593c1efa4201587b19dc0108ddac9498ed97426"
+metafile = true
+
+[[files]]
 file = "mods/spoorn-armorattributes.pw.toml"
 hash = "13fcb0cbd086349be8cb5a61b9b461be540ba0996e22b88c280f608d4255b383"
 metafile = true
