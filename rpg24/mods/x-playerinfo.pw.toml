@@ -1,0 +1,13 @@
+name = "X-PlayerInfo"
+filename = "X-PlayerInfo-1.20.1-1.0.8.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a2e0ed6769cdbb3db84db0581a2e152480dbdfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4811027
+project-id = 894930

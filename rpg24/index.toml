@@ -254,6 +254,11 @@ hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "f88c85bc1b56127f3c6bb2c07dc2f27c566d3a312191e030173fd11c1c473b46"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "38d54872037bfecc7944bd8a438423bbda2d864d79dd07d083bbd869497aa68e"
 metafile = true
@@ -354,6 +359,11 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/caveore.pw.toml"
 hash = "0368572b613c27e3076a1ca359740295e49415ceae46902290d5dc392d6aaa09"
 metafile = true
@@ -371,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "70203eccb52079014b1438e6488730cebb84e52aa0daf516211b4587a49bdb1e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "22d9f4b270da1bbe27848c08747b35a97391141d118edfaf518cf34fd76367c5"
 metafile = true
 
 [[files]]
@@ -406,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "588807da8d9fcf5b9670a0b9804d8a3c400a4985b23e8aa7368f4e7c6e721f80"
 metafile = true
 
 [[files]]
@@ -451,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
@@ -609,6 +634,11 @@ hash = "bbc43924cbbcf3e61d844386ee6e37a4910adde3968cee47cdb6529d7a0b256f"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "a7f86043961b9645bd52000b0083193ca8dda09cc30e53810019491b57f33d57"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "90a8a0c66d04bb3704f96af1bfaef5fac6c30cb1d2b9610563d76a3c58fbdb13"
 metafile = true
@@ -686,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "4d7d45d515ea2a7f786672b8b0dd82d5f292b69237500b71216dffdc5655fcc6"
 metafile = true
 
 [[files]]
@@ -939,6 +974,21 @@ hash = "d925d89ab420bc00b3c3c2b5db81a00b94ba309759f5c34fa308f681e5d02496"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "25a898a7d5ea660c4104734fb18c33de91d465f0acf518a0f5df18b20f8385de"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
 metafile = true
@@ -1006,6 +1056,11 @@ metafile = true
 [[files]]
 file = "mods/leaky.pw.toml"
 hash = "ba3aa25a5f522e55225ad0bc52bc4011864ad5fe24ca25dbea32fb7dde29753f"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
 metafile = true
 
 [[files]]
@@ -1124,6 +1179,11 @@ hash = "d9eb4b00cb9dbf32c6ab202bcfaac537d1846c8a2bc97d50ad8bfb49e06e42bb"
 metafile = true
 
 [[files]]
+file = "mods/loot-journal.pw.toml"
+hash = "d57927978078916816629100f78b5d9bed43f2eb17f695e89568ab42d266b233"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
@@ -1196,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/moa-decor-toys.pw.toml"
 hash = "0aebf6b6ba3556e7acef8330052107250fc0cfa00290bae6660329d010ac6cd2"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
 metafile = true
 
 [[files]]
@@ -1404,6 +1469,11 @@ hash = "ba18a96445a76671815afc4ebb3e7d1a59bfc93fd1c467b71eccfc5736ddaa1b"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo-farmers-delight-compat.pw.toml"
 hash = "17ca8c876458e981a090a146e2b175345c62eea82828947037513b7d99649bec"
 metafile = true
@@ -1516,6 +1586,11 @@ metafile = true
 [[files]]
 file = "mods/scaling-health.pw.toml"
 hash = "6f90db52e02fbb0129053fbf94a0c3fde4e889272f9e0ddfc99a10985aee4fd3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
@@ -1709,6 +1784,11 @@ hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
 metafile = true
@@ -1766,6 +1846,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/x-playerinfo.pw.toml"
+hash = "22371944bb1c1767269d07b7b231c6456065bc0c5e827f373cf3a7b1a7d78d2a"
 metafile = true
 
 [[files]]
@@ -1841,6 +1926,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "4e34eaf92b3e06d2ad4dfb6b7630bc583a0c113498088efb9c8b446562d709e9"
 metafile = true
 
 [[files]]
