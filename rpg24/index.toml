@@ -404,6 +404,11 @@ hash = "be70e069fb49c0655335064a6c3308f8815c3b4f8a5a9678cc0fdc3438adee32"
 metafile = true
 
 [[files]]
+file = "mods/callable-horses.pw.toml"
+hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "56ffa7b1ed74adf3a8e0cc25fcb361248b6d54606fa6a64e77b809b8eb994df1"
 metafile = true
@@ -411,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "4b20da8bda4c52d9ef8aeb33d78da7f5b112c77de1154f3b3eb51615d5ba7582"
 metafile = true
 
 [[files]]
