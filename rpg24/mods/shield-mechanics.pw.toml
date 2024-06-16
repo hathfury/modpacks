@@ -1,0 +1,13 @@
+name = "Shield mechanics"
+filename = "shieldmechanics-1.20.1-4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c5f4e1c95e4b79a6ebad747121d03c4c84bb53f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4603687
+project-id = 476645

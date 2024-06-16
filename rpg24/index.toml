@@ -154,6 +154,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/armor-damage-scaling-forge-fabric.pw.toml"
+hash = "23b239d9e6025f83657a923dab793b3ec6b51acde24a1f3943fc9db13f931deb"
+metafile = true
+
+[[files]]
 file = "mods/ars-artifice.pw.toml"
 hash = "7fd2cae6cdbdf609a729b64874a16fee503970417c8c26aacc9908ad0253b076"
 metafile = true
@@ -194,8 +199,18 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "5293cf7a44fafb4404e9295096a4aeaafa133f1d4092a34ca472cc27c38d7176"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "455cd3c391337f2a9c5083401532715739552e1678b3f463bd3baa254f022466"
 metafile = true
 
 [[files]]
@@ -246,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
+file = "mods/better-farmers-combat.pw.toml"
+hash = "acece60f54431d0bcd8b1ec036d55d6926e0487a18df6f66d1cfc4f92c7a8349"
 metafile = true
 
 [[files]]
@@ -1424,6 +1444,11 @@ hash = "188a850993d5e888fdb8afb0e2291d71ae45cd8ebe1b44264df3c16b8add1896"
 metafile = true
 
 [[files]]
+file = "mods/responsive-shields.pw.toml"
+hash = "912f2f0e3f9e165267911c7b1e7988b619db9d11d5c37b33f8c2f5e41e93d5e8"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
@@ -1444,6 +1469,11 @@ hash = "f21b3af1439bc9a3d36dff594da3bb1e0db37e679fc11e6d822e4dc2cb5c2aee"
 metafile = true
 
 [[files]]
+file = "mods/scaling-health.pw.toml"
+hash = "6f90db52e02fbb0129053fbf94a0c3fde4e889272f9e0ddfc99a10985aee4fd3"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "e3bf82308855f7de46696f793f1fbd71f2c610647bcb9e30bcfa6c4c388e8a97"
 metafile = true
@@ -1456,6 +1486,16 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "f65634348b0cf61fb2a9b99417f6fc28256ab0a37238baefdb26446a89a3bab0"
+metafile = true
+
+[[files]]
+file = "mods/shield-mechanics.pw.toml"
+hash = "58a7491e1cff15ef606679bc72c580d478215128445b97af1c47cf1beaeb695b"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
 metafile = true
 
 [[files]]
@@ -1506,6 +1546,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "6aadb28838ab923cc2264f620a26aea0032169a26fa5c6ed4cf006e4595a22f4"
 metafile = true
 
 [[files]]
