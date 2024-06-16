@@ -659,6 +659,11 @@ hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "3e6cd0338e376c0b84fbdbc7fed1b97637782087721c694a0bd6092694331c51"
 metafile = true
@@ -711,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
 metafile = true
 
 [[files]]
@@ -1041,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 hash = "e1114bf5695f17f488698149bad703a83ca0225037eb19b3a03be3fd8c984c9a"
+metafile = true
+
+[[files]]
+file = "mods/more-villager-trades.pw.toml"
+hash = "dc58e0277dd5264db2021ef0ba9e891b5897783348f4bcb57b2850ec611b9eeb"
 metafile = true
 
 [[files]]
@@ -1401,6 +1416,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
 
 [[files]]
