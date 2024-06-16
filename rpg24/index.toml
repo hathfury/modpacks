@@ -1809,6 +1809,11 @@ hash = "14e7219aa6c91b900cf44c2cdbdfd32d60ac80103050aa732a83d422836fb232"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "ad6b7c1e84ff4fa28658862544431c88deb5bd25aff91684f4871ba148968eb7"
+metafile = true
+
+[[files]]
 file = "mods/tumbleweed.pw.toml"
 hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
 metafile = true
