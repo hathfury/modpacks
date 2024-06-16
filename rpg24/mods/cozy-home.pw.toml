@@ -1,0 +1,13 @@
+name = "Lucky's Cozy Home"
+filename = "cozy_home-3.0.3.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e912bcd1e689c181b1551aec5412acc62a433211"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5376725
+project-id = 825733

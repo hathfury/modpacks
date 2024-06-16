@@ -1,0 +1,13 @@
+name = "Quad"
+filename = "Quad-1.2.5+1.20.4-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa1fa50d764a5e4e10f9187067780cb4031b8487"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5389455
+project-id = 932715
