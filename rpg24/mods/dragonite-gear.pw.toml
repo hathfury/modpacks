@@ -1,0 +1,13 @@
+name = "Dragonite Gear"
+filename = "dragonitegear-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1a218918c607ab6d48c5b484961d882d51e7b11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5382459
+project-id = 1027400

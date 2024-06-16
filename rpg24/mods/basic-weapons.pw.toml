@@ -1,0 +1,13 @@
+name = "Basic Weapons"
+filename = "basicweapons-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3caadeccad61f64244f0c1be17e4f1f9bf83ddc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5395560
+project-id = 917144

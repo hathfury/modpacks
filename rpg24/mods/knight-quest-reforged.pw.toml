@@ -1,0 +1,13 @@
+name = "Knight Quest [Reforged]"
+filename = "knightquest-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "084544b9c2441caa0c8b37493c7c43c92e012425"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5420974
+project-id = 1018043

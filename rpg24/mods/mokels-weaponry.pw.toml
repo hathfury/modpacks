@@ -1,0 +1,13 @@
+name = "Mokels Weaponry"
+filename = "mokels weaponry 3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82fe3ba3e393fbe4650388a15eecee7a76c42cf8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5212493
+project-id = 985776
