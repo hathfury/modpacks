@@ -1,0 +1,13 @@
+name = "Illusion Onslaught"
+filename = "[1.20.1]illusion_onslaught-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f05f9b4e2fdc78729476be08d809d578b768b5bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5435001
+project-id = 1004933

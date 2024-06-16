@@ -1119,6 +1119,11 @@ hash = "e08914a4d8a95391e59d6536e264e3401ce44b745fa16d0f9474e2149daeef5e"
 metafile = true
 
 [[files]]
+file = "mods/illusion-onslaught.pw.toml"
+hash = "8ea99495d972ef603bd641bb1b4fda7691185532eac78c0385cf2bfe70fcad48"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8990510055e6dd69379ccf1028b823fcaf972c108e997b3173f5b4dc66db4254"
 metafile = true
