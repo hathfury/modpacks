@@ -44,11 +44,6 @@ hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
 
 [[files]]
-file = "mods/aether-delight.pw.toml"
-hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
-metafile = true
-
-[[files]]
 file = "mods/aether-lost-content.pw.toml"
 hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
 metafile = true
@@ -116,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "9213eaaca144e07c14322982367dffdb3c75fd9eba8d8a82f55c7002e0067e44"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture-delight.pw.toml"
-hash = "9ebc6bed640c567887afff597d05a4679d2ac9bb6f5a49b8b203e754d36d4051"
 metafile = true
 
 [[files]]
@@ -874,11 +864,6 @@ hash = "64211ca4947c1dc95db2d65adf58406ad897e8209e7cfd10c209c934a1e40b88"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
@@ -1021,11 +1006,6 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
-metafile = true
-
-[[files]]
-file = "mods/undergarden-delight.pw.toml"
-hash = "e11a1689ced1b6561df189f3eecc17e3ed4ebfa5c1064bdd3f94271cd8a45d8e"
 metafile = true
 
 [[files]]
