@@ -1759,6 +1759,11 @@ hash = "17ca8c876458e981a090a146e2b175345c62eea82828947037513b7d99649bec"
 metafile = true
 
 [[files]]
+file = "mods/project-mmo-skill-books.pw.toml"
+hash = "4f0f27c66fcf605060eae7e1950b0d6d549e280b9de1f33226e2abcffc8110f1"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo-vinery-compat.pw.toml"
 hash = "577da8353a97484d05b29b54842a28fe713cddf3204a4e3a6b58ba8301014d27"
 metafile = true

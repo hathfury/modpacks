@@ -1,0 +1,13 @@
+name = "Project MMO: Skill Books"
+filename = "pmmo_skill_books-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0a0ce39ab909208822e6e338548af7c66a8f59e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4865863
+project-id = 908049
