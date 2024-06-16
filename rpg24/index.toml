@@ -49,6 +49,11 @@ hash = "29509328e2eb921b26428b6241641bf309a62b60bbb253079df1490912b897bb"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
@@ -96,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "2c31b3651fd6df13a65721fe596a0e3dd63f15148301a953d0e8789dce882d64"
+metafile = true
+
+[[files]]
+file = "mods/all-the-trims.pw.toml"
+hash = "771494578ebb46fbe81cdabfaa4fbb752edae5f0ffa97f93ed9f4af6e0cbe788"
 metafile = true
 
 [[files]]
@@ -294,6 +304,11 @@ hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "b452fc877ad16f35cf274f3945ec7eb46d645be3d76bd506858b263ce09332ce"
+metafile = true
+
+[[files]]
 file = "mods/boat-break-fix.pw.toml"
 hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
 metafile = true
@@ -454,6 +469,11 @@ hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/cozy-home.pw.toml"
 hash = "933dbd01b71e1fba0a000b6c32c5c80f28173461ae23d13f9e25b32bc12de225"
 metafile = true
@@ -584,6 +604,11 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "bbc43924cbbcf3e61d844386ee6e37a4910adde3968cee47cdb6529d7a0b256f"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "90a8a0c66d04bb3704f96af1bfaef5fac6c30cb1d2b9610563d76a3c58fbdb13"
 metafile = true
@@ -626,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "75cd6ef2de722ecdb1308b0d3233a0c630fb8c131090425a6c1e6b6d9c47f3f5"
 metafile = true
 
 [[files]]
@@ -706,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "4f45322ff0cac4a59b9d8c04584d96f94315c150c49cd5861d6eee3e1a6182d4"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
 metafile = true
 
 [[files]]
@@ -846,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "ad39b6fb2bc55933c421297e8ecf931d82dcb056a5513ba3f3b407fdeaef7b02"
 metafile = true
 
 [[files]]
@@ -1074,6 +1114,11 @@ hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
 metafile = true
 
 [[files]]
+file = "mods/loot-beams.pw.toml"
+hash = "0e139381fabdc46a2aa195db7e2dad90e4b2518b3efb10394317bb8023d5d54e"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "d9eb4b00cb9dbf32c6ab202bcfaac537d1846c8a2bc97d50ad8bfb49e06e42bb"
 metafile = true
@@ -1241,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
+file = "mods/nekos-enchanted-books.pw.toml"
+hash = "719d6289c5c0a0ada27b685b5ec099a8d6a7c3dd41e167eb2bd28ac8d7ff4e40"
 metafile = true
 
 [[files]]
@@ -1679,6 +1729,11 @@ hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "14e7219aa6c91b900cf44c2cdbdfd32d60ac80103050aa732a83d422836fb232"
+metafile = true
+
+[[files]]
 file = "mods/tumbleweed.pw.toml"
 hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
 metafile = true
@@ -1731,6 +1786,11 @@ metafile = true
 [[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "c4968d2539190a1a2e2623814db027d8229fd75800f58f76b51a39f25e7ea3b2"
 metafile = true
 
 [[files]]
@@ -1801,6 +1861,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "c4e335a752d08314d84733ab78791a67a048a68bdf0957c6f0eef24c03cbcaaf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-pipez.pw.toml"
+hash = "9a44edfd94eb0874c590b7568132968d45a6179ec61bf1f9da5fc22efa40fae4"
 metafile = true
 
 [[files]]
