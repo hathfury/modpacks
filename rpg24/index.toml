@@ -274,6 +274,11 @@ hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
 
 [[files]]
+file = "mods/boat-break-fix.pw.toml"
+hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -1014,6 +1019,11 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
+file = "mods/libre-exp-fix.pw.toml"
+hash = "2df749972ffc9084f19f4097bd1c6a99af01ab0d88cf367e8bcba53be8069506"
+metafile = true
+
+[[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "662740d6fee8d8b38dcfd040d62ab897090084bf9fbe1578a70ae5692d898501"
 metafile = true
@@ -1086,6 +1096,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "a433c965c277b4f3b89606b2e87c56545bca0c42568e5ee0e75962628ddd939e"
 metafile = true
 
 [[files]]
@@ -1204,6 +1219,11 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
@@ -1216,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/no-see-no-tick.pw.toml"
 hash = "713d365033756b4cadbbed2699f795a7962fcbbc993002dabcd2823aaef0b7bd"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]
@@ -1246,6 +1271,11 @@ metafile = true
 [[files]]
 file = "mods/orcz.pw.toml"
 hash = "121deaac816da80ec3d7d1238a0770cbb43e2b075b6c8fc8ac296c3551ade25e"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
 metafile = true
 
 [[files]]
@@ -1419,6 +1449,11 @@ hash = "e3bf82308855f7de46696f793f1fbd71f2c610647bcb9e30bcfa6c4c388e8a97"
 metafile = true
 
 [[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "f65634348b0cf61fb2a9b99417f6fc28256ab0a37238baefdb26446a89a3bab0"
 metafile = true
@@ -1569,6 +1604,11 @@ hash = "1eab02d3a9e60d6c30f5f82d41293bb805e4a39edaa67375381978d6107bf40b"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
+metafile = true
+
+[[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
@@ -1636,6 +1676,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9d60c8dd6456b72a8c7b10b052c8945d8904edf070b35d2ca67b9d83d1b2158"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]

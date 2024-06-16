@@ -1,0 +1,13 @@
+name = "LibreExpFix (Fixes \"0 Experience\" Bug)"
+filename = "libreexpfix-0.2.7+1.18b14-BETA-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qOQALrK4/versions/qm1Ms09j/libreexpfix-0.2.7%2B1.18b14-BETA-forge.jar"
+hash-format = "sha1"
+hash = "f75702c87638b37a7ff117a9077fe5863988f872"
+
+[update]
+[update.modrinth]
+mod-id = "qOQALrK4"
+version = "qm1Ms09j"
