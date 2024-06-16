@@ -24,6 +24,11 @@ file = "emotes/sit.animation.json"
 hash = "01b32806043bfe5eb115b7d7ce1c3395fe6ff494cf0f46fc9321d4ef68df2cbe"
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "b6e76a4bd799f6c932a4c925c5e6b4414e4f966cdeaf1c819d16a02bb1b31e96"
 metafile = true
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
 
 [[files]]
@@ -1639,6 +1649,11 @@ hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "311675473084eb0f1b33dbd5bf58c8f47e6a6af88b3d9832ceaf247e6734f35d"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "d836f2b46a92aa1e0308672072c761a58b5186d6f5c2c39499b8b7f6aeaa0945"
 metafile = true
@@ -1651,6 +1666,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "b21b3850e6f670fc456ae89816a714fffd9dc71bfcd5bb9e631f03239979dc3b"
 metafile = true
 
 [[files]]
@@ -1909,6 +1929,11 @@ hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "f21b3af1439bc9a3d36dff594da3bb1e0db37e679fc11e6d822e4dc2cb5c2aee"
 metafile = true
@@ -1946,6 +1971,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4a706974b17c382231bf2fb5dbd6c7f870d74ded4bc7c27d821c630d56b9ed22"
+metafile = true
+
+[[files]]
+file = "mods/shutdowner.pw.toml"
+hash = "651f619cf0d12a988abe85cbdff3a972a04c8991324430ddbc50f3297c5882bb"
 metafile = true
 
 [[files]]
@@ -2016,6 +2046,11 @@ metafile = true
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "6aadb28838ab923cc2264f620a26aea0032169a26fa5c6ed4cf006e4595a22f4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
