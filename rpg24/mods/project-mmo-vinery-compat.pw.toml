@@ -1,0 +1,13 @@
+name = "Project MMO: Vinery Compat"
+filename = "pmmo_vinery_compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a59309b27e4945659adef608660db9325ee708bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4910608
+project-id = 944261
