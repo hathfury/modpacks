@@ -369,6 +369,11 @@ hash = "f6613ae7fa1401f85d2f902d2351b43dce965c9e3ab0881deb06b7ccfe9e78a2"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
+metafile = true
+
+[[files]]
 file = "mods/call-from-the-depths.pw.toml"
 hash = "be70e069fb49c0655335064a6c3308f8815c3b4f8a5a9678cc0fdc3438adee32"
 metafile = true
@@ -1051,6 +1056,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "7c1e57af0e603f8ad34ea67f4d7105d87153d838f6b5de8241b3c564a8f0cf9f"
 metafile = true
 
 [[files]]
