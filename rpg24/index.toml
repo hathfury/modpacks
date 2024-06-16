@@ -349,11 +349,6 @@ hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-sabers.pw.toml"
 hash = "706c35cd5f777c5fe4bd1c379e22dd0ac39d2fa893001d87c2266215ac06a4cf"
 metafile = true
@@ -1044,8 +1039,8 @@ hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-new-age-refrubished.pw.toml"
-hash = "6a6da0dcc0291be2e600b4ab5574b4338f3d6f6a4e674d22ad60a071f724389a"
+file = "resourcepacks/create_new_age_refrubished.pw.toml"
+hash = "c4e335a752d08314d84733ab78791a67a048a68bdf0957c6f0eef24c03cbcaaf"
 metafile = true
 
 [[files]]
