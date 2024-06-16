@@ -99,6 +99,11 @@ hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e0de9a73e478746b57f47701bfe5a7feceefb68205896887593be6ca0a997125"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "99e547e5d79615e639a335f349298503c366afbe92dc16b28c09f6f952369946"
 metafile = true
@@ -179,6 +184,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
@@ -221,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
+file = "mods/biome-music.pw.toml"
+hash = "bcc156e2b2c0a005e2e80688495af1b3e3b05fe1516ff4cdfb2499cde36ab587"
 metafile = true
 
 [[files]]
@@ -454,6 +469,11 @@ hash = "75ff481ba65e2a478d78d05ccc368503228ef669ab8c2719f28538fc17201616"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
 metafile = true
@@ -556,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "1bd064b812416bc467c2b236cc2904f00f9d36b0e994f5623d3e31897a1eb2d3"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "4f45322ff0cac4a59b9d8c04584d96f94315c150c49cd5861d6eee3e1a6182d4"
 metafile = true
 
 [[files]]
@@ -671,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
+metafile = true
+
+[[files]]
+file = "mods/illager-raid-music.pw.toml"
+hash = "e08914a4d8a95391e59d6536e264e3401ce44b745fa16d0f9474e2149daeef5e"
 metafile = true
 
 [[files]]
@@ -914,6 +944,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/medieval-music.pw.toml"
+hash = "c1cf449be5319662a5f09c677f62dffe6feaecd5052fdd07b3aa7af08beba01d"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
 metafile = true
@@ -1061,6 +1096,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "ba18a96445a76671815afc4ebb3e7d1a59bfc93fd1c467b71eccfc5736ddaa1b"
 metafile = true
 
 [[files]]

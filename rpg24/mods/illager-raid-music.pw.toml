@@ -1,0 +1,13 @@
+name = "Illager Raid Music"
+filename = "illagerraidmusic-1.20-1.20.1-1.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2f90c3b308f239c31fdcbcfe90918be3546a1ce9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5229163
+project-id = 947227
