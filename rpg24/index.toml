@@ -44,6 +44,11 @@ hash = "ff21f80c145c64bf072a7e4e949cc864796bab62361a3443de3fb494370eca88"
 metafile = true
 
 [[files]]
+file = "mods/adorabuild-structures.pw.toml"
+hash = "29509328e2eb921b26428b6241641bf309a62b60bbb253079df1490912b897bb"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
@@ -219,6 +224,11 @@ hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "38d54872037bfecc7944bd8a438423bbda2d864d79dd07d083bbd869497aa68e"
+metafile = true
+
+[[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "a81b55c3e33ab58d7b9af0f65728b24f11357b81d7ce567038a274f85c7dba92"
 metafile = true
@@ -296,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/caveore.pw.toml"
+hash = "0368572b613c27e3076a1ca359740295e49415ceae46902290d5dc392d6aaa09"
 metafile = true
 
 [[files]]
@@ -554,6 +569,11 @@ hash = "850837acd5d51a7d3c0f4ffb2d6cf3634194d996179955ae0855f1c064355988"
 metafile = true
 
 [[files]]
+file = "mods/dnt-ancient-city-overhaul.pw.toml"
+hash = "c4c9ebe4d40cb9cedb1b87b5b8c977ea00e31cbb8790b9510e31fe69932b67f8"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "1739bc18a61b542713cf22788a8697e5813d98901248be584e1c8b60db3b185f"
 metafile = true
@@ -561,6 +581,21 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-plus.pw.toml"
+hash = "47333653971f7eb2f38e344df2cacc838c761bee89e9f57acb98dfb0b009c6bc"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsenhanced.pw.toml"
+hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
 metafile = true
 
 [[files]]
@@ -784,6 +819,11 @@ hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "da78f60554e5ddbf1b119917a9609441ed3d488e5b043833a49488bd991aa450"
+metafile = true
+
+[[files]]
 file = "mods/illager-raid-music.pw.toml"
 hash = "e08914a4d8a95391e59d6536e264e3401ce44b745fa16d0f9474e2149daeef5e"
 metafile = true
@@ -999,6 +1039,11 @@ hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "d9eb4b00cb9dbf32c6ab202bcfaac537d1846c8a2bc97d50ad8bfb49e06e42bb"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
@@ -1169,6 +1214,16 @@ hash = "d836f2b46a92aa1e0308672072c761a58b5186d6f5c2c39499b8b7f6aeaa0945"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "edc780458ae0bd3bec739532e5d73f069d71dcf3eb3daa3b0f5254317c1eeb79"
 metafile = true
@@ -1176,6 +1231,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+metafile = true
+
+[[files]]
+file = "mods/orcz.pw.toml"
+hash = "121deaac816da80ec3d7d1238a0770cbb43e2b075b6c8fc8ac296c3551ade25e"
 metafile = true
 
 [[files]]
@@ -1311,6 +1371,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
+metafile = true
+
+[[files]]
+file = "mods/respawning-structures-forge-fabric.pw.toml"
+hash = "188a850993d5e888fdb8afb0e2291d71ae45cd8ebe1b44264df3c16b8add1896"
 metafile = true
 
 [[files]]
@@ -1509,6 +1574,11 @@ hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
 
 [[files]]
+file = "mods/tumbleweed.pw.toml"
+hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
 metafile = true
@@ -1519,6 +1589,11 @@ hash = "54fde311583003790c01f03136f185d2d61fab6dff4ccb5ff19a0a23503fbf3b"
 metafile = true
 
 [[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "708d4a3d69ca0b7b63e4098964d7c8a0f1b9c642d6176622c283e6c51ccd4d7c"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
 metafile = true
@@ -1526,6 +1601,16 @@ metafile = true
 [[files]]
 file = "mods/whats-that-slot.pw.toml"
 hash = "cedbe6626be64f92f80bb5cdf40bd50a2b5a11c211daf691669d313476cd3a66"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "0b03ce76554551677c7c083f468c789739b4837b015232b89b6f4d9378a42766"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
@@ -1606,6 +1691,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "c4e335a752d08314d84733ab78791a67a048a68bdf0957c6f0eef24c03cbcaaf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml"
+hash = "92014da7b95c60b43bf000224f179c498636237cb247c290698351e8f3ff397f"
 metafile = true
 
 [[files]]
