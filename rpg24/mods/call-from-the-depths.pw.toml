@@ -1,0 +1,13 @@
+name = "Call from the depths"
+filename = "callfromthedepth_-3.7.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69aa5d968da9db14c27608fba65d130de32461d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5346477
+project-id = 1013658

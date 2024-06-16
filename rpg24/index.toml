@@ -369,6 +369,11 @@ hash = "f6613ae7fa1401f85d2f902d2351b43dce965c9e3ab0881deb06b7ccfe9e78a2"
 metafile = true
 
 [[files]]
+file = "mods/call-from-the-depths.pw.toml"
+hash = "be70e069fb49c0655335064a6c3308f8815c3b4f8a5a9678cc0fdc3438adee32"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "56ffa7b1ed74adf3a8e0cc25fcb361248b6d54606fa6a64e77b809b8eb994df1"
 metafile = true
