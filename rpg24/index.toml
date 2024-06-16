@@ -214,6 +214,11 @@ hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "735dd212445fb96f9aedd4d7333350ac6ea3476f1ddc758f80625716a0fd0198"
+metafile = true
+
+[[files]]
 file = "mods/beautify-decorate.pw.toml"
 hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
 metafile = true
@@ -1124,6 +1129,11 @@ hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
+metafile = true
+
+[[files]]
 file = "mods/mokels-bossfight-kinora.pw.toml"
 hash = "9120f25eb6bf3598f51762ec5926055de9046162e62380757f3dd5924348ac5e"
 metafile = true
@@ -1256,6 +1266,11 @@ metafile = true
 [[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "696363133fc81d8956de993ef778b5faed55d7d792d47f841ec40db13755b5f6"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "7d0f4c5135fb6b33ec2ea9e1cb98f8099c1d937c11c9772f1d2805e8632013f7"
 metafile = true
 
 [[files]]
