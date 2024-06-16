@@ -1,0 +1,13 @@
+name = "Initial Inventory"
+filename = "InitialInventory-forge-1.20.1-11.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5fe6b6bb1737a060d1adc42b307467f1c5c5a1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708383
+project-id = 253230

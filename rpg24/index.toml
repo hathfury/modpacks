@@ -539,6 +539,11 @@ hash = "5f979818cf342fc9e8adba5e84c0ec033389c30eb862958d7a147c9fcf77483b"
 metafile = true
 
 [[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -596,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e312f2039a8d63f719c4de567a6fd140a17b380e57e0135f1d7cd9817e13e917"
 metafile = true
 
 [[files]]
@@ -735,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
-hash = "88853e9cfc19a1b870f9d18d5870663cac7913f2c351232a01e93752e9f2f152"
+hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
@@ -1151,6 +1161,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
+file = "mods/initial-inventory.pw.toml"
+hash = "5064b658a38911a60180ffff285a9e0f72e69f4a44d95d158519e1711cc62b2d"
 metafile = true
 
 [[files]]
@@ -1661,6 +1676,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
+metafile = true
+
+[[files]]
+file = "mods/packmenu.pw.toml"
+hash = "f0f3e5e97bd3ea4a32821b1ba1e49c661a54df5220fb5f3e1d94fe05bdf66447"
 metafile = true
 
 [[files]]
