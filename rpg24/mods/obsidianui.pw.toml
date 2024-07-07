@@ -1,6 +1,6 @@
 name = "ObsidianUI"
 filename = "ObsidianUI-forge-0.2.3+mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
