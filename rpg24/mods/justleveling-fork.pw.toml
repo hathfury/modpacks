@@ -1,0 +1,13 @@
+name = "JustLeveling [Fork]"
+filename = "justlevelingfork-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e2458739e193e521dc09240c848165a5009c9f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651524
+project-id = 1073400
