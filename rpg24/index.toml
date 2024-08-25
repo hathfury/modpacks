@@ -39,16 +39,12 @@ hash = "b754aa5de7d8f5deb791c2cf33dc00c81760bcc051e95fe24d1ad64fc5b83adf"
 metafile = true
 
 [[files]]
+file = "config/solonion.json"
+hash = "2031b42be9e1c61a7fa9af066bb788308dd3f92ae33cd3dec3ea9a107557608c"
+
+[[files]]
 file = "config/torohealth.json"
 hash = "2de0950a170978fd34610b9411cf463eb8bd9208156ade036f3ff63567d88d3d"
-
-[[files]]
-file = "defaultconfigs/pmmo-Perks.toml"
-hash = "7c531c1668951e8d44551889d9484c8d93ca9e5f6ddb11e6e85302904311283a"
-
-[[files]]
-file = "defaultconfigs/pmmo-server.toml"
-hash = "26620f9ab2d831f7226e3a142a751d4f3417e9380d887ef5f2d936bda31b0cbd"
 
 [[files]]
 file = "emotes/sit.animation.json"
@@ -1460,8 +1456,8 @@ hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-apple-pie-edition.pw.toml"
-hash = "2e57bb84178b5af2717a1d43b593c1efa4201587b19dc0108ddac9498ed97426"
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "cb0dec33c7c950d21155ba901264e01922a6683c300a05fdad39d02afc95bbb5"
 metafile = true
 
 [[files]]
