@@ -225,7 +225,7 @@
 	// Stealth Mastery skill enemy vision percent when player is sneaking
 	stealthMasterySneakPercent: 60,
 	// Stealth Mastery skill arrow damage modifier multiply
-	stealthMasteryModifier: 2,
+	stealthMasteryModifier: 2.0,
 	// Counter Attack skill duration to return the attack
 	counterAttackDuration: 3,
 	// Counter Attack skill damage returned percent

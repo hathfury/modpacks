@@ -1,0 +1,7 @@
+name = "Ars Spell Book Curio"
+filename = "ars_spell_book_curio-1.20.1-1.0.jar"
+
+[download]
+url = "https://github.com/hathfury/Ars-Spell-Book-Curio/releases/download/v1.0/ars_spell_book_curio-1.20.1-1.0.jar"
+hash-format = "sha256"
+hash = "bbae6ebf1013c5d8faee4fd00704725b374ed6a77b98942617cfd7498a45492a"

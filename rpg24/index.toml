@@ -2,15 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/JLFork/justleveling-fork.common.json5"
-hash = "ca30d02a7b9ba6358dbc23fd4e75bf7ab895747fd92cbb3252eedaafaef6826c"
+hash = "89358cbea382147dc0e65aba83289ef40bab2b240402aa754f21df45e65c992c"
 
 [[files]]
 file = "config/JLFork/justleveling-fork.lockItems.json5"
 hash = "1d24839b0aee4feb5c897c22e44935f150400a893e58d0a0b2604405558f578c"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "a147118ec76cfcb66fe989ef32625110cd6643e63cd4847a2795309c6b8a0f6d"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "92c4d4f980843056c07f05f98e593f287cd3d4e003f30d4505bb5c81a2674091"
+
+[[files]]
+file = "config/globalgamerules-common.toml"
+hash = "a3f3bcccb766895fc57bae36703add225ef0b858e5cabab85b3afcdf47da786c"
+
+[[files]]
 file = "config/improvableskills.cfg"
-hash = "da2fcb6234d28091a4756c6e2efc497c9d5e087b87f86023f93b37e59232a013"
+hash = "c5373e7bbfadf97d20690d21a9fa7bc0cdfca347f2447ad60220dc03adf9f0d7"
 
 [[files]]
 file = "config/mysticsbiomes-common.toml"
@@ -165,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/ars-scalaes.pw.toml"
 hash = "68cf44c114e95c3025db6f013bb1b6e90815d9bb943619f5de1f487cacb04c29"
+metafile = true
+
+[[files]]
+file = "mods/ars-spell-book-curio.pw.toml"
+hash = "7dce2a22ca03e2b146d621b4034c5596e9eb51103559f6b92811fde9349d9dbd"
 metafile = true
 
 [[files]]
@@ -698,11 +715,6 @@ hash = "e19e778b75bd83958e62b7902c92e83f1095c20e07551ebc9917068895294721"
 metafile = true
 
 [[files]]
-file = "mods/fps-monitor.pw.toml"
-hash = "b3a7be405919d5cdf64d6c9ae5b8d520a9b3eae5a82ed7e555f8cd9b06813a7a"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
 metafile = true
@@ -793,6 +805,11 @@ hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
 metafile = true
 
 [[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "dc2d33109c6d785ac53b0af16565c122a0caa7faa8b27fbd920accbc31ac8de6"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "5a1e1d9e5a5e64d7b7641ba4e394d374fd762abcb7f2920dda74c4d29bbdae86"
 metafile = true
@@ -830,6 +847,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
+metafile = true
+
+[[files]]
+file = "mods/improvable-skills.pw.toml"
+hash = "3c3dec4fc7a603ffd92b3bcc41f6dbb0213734e70807c45d58bdbc6455273431"
 metafile = true
 
 [[files]]
