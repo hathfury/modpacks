@@ -47,6 +47,10 @@ file = "config/torohealth.json"
 hash = "2de0950a170978fd34610b9411cf463eb8bd9208156ade036f3ff63567d88d3d"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
+
+[[files]]
 file = "emotes/sit.animation.json"
 hash = "01b32806043bfe5eb115b7d7ce1c3395fe6ff494cf0f46fc9321d4ef68df2cbe"
 
