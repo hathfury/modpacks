@@ -60,7 +60,11 @@ hash = "2de0950a170978fd34610b9411cf463eb8bd9208156ade036f3ff63567d88d3d"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
+hash = "b9c95cba96997f17291ce30e869ce39655eadcf71e8e2899124302ecd5c829dc"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "7c6bae9b70f25f90b8e87a3cd5d969be9e118d6df12dc5f8ee76698f7c5858a2"
 
 [[files]]
 file = "emotes/sit.animation.json"
