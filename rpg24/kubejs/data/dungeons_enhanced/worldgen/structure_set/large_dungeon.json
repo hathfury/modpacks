@@ -8,10 +8,5 @@
     "spacing": 59,
     "structure": "dungeons_enhanced:large_dungeon"
   },
-  "structures": [
-    {
-      "structure": "dungeons_enhanced:large_dungeon",
-      "weight": 1
-    }
-  ]
+  "structures": []
 }

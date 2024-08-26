@@ -29,10 +29,6 @@
       "weight": 2
     },
     {
-      "structure": "dungeons_arise:illager_fort",
-      "weight": 1
-    },
-    {
       "structure": "dungeons_arise:illager_galley",
       "weight": 2
     },
@@ -43,10 +39,6 @@
     {
       "structure": "dungeons_arise:merchant_campsite",
       "weight": 3
-    },
-    {
-      "structure": "dungeons_arise:monastery",
-      "weight": 1
     },
     {
       "structure": "dungeons_arise:mushroom_house",
@@ -65,10 +57,6 @@
       "weight": 1
     },
     {
-      "structure": "dungeons_arise:small_blimp",
-      "weight": 3
-    },
-    {
       "structure": "dungeons_arise:typhon",
       "weight": 1
     },
@@ -85,23 +73,11 @@
       "weight": 1
     },
     {
-      "structure": "dungeons_arise:bandit_towers",
-      "weight": 1
-    },
-    {
       "structure": "dungeons_arise:foundry",
       "weight": 1
     },
     {
       "structure": "dungeons_arise:heavenly_challenger",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:thornborn_towers",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:infested_temple",
       "weight": 1
     },
     {
@@ -113,15 +89,7 @@
       "weight": 1
     },
     {
-      "structure": "dungeons_arise:shiraz_palace",
-      "weight": 1
-    },
-    {
       "structure": "dungeons_arise:keep_kayra",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:mechanical_nest",
       "weight": 1
     }
   ],

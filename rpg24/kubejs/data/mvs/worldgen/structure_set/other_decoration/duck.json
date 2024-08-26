@@ -1,10 +1,5 @@
 {
-  "structures":[
-    {
-      "structure": "mvs:other_decoration/duck",
-      "weight": 1
-    }
-  ],
+  "structures":[],
   "placement": {
 
     "type": "mvs:advanced_random_spread",
