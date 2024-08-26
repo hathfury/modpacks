@@ -111,6 +111,10 @@ file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/windmill.json"
 hash = "2f6811f07a18e1984d83b11f1c63107d65223985fcb29efae68b954fed1dd7e3"
 
 [[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "7114eb60b8f0a4bd5c4e116e3fb7b6c8e0d402d9bbdf32b65fdad3b342ad873e"
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
 metafile = true
