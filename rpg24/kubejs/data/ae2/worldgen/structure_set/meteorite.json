@@ -5,10 +5,5 @@
     "separation": 8,
     "spacing": 32
   },
-  "structures": [
-    {
-      "structure": "ae2:meteorite",
-      "weight": 1
-    }
-  ]
+  "structures": []
 }

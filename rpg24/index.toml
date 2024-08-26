@@ -60,47 +60,47 @@ hash = "01b32806043bfe5eb115b7d7ce1c3395fe6ff494cf0f46fc9321d4ef68df2cbe"
 
 [[files]]
 file = "kubejs/data/ae2/worldgen/structure_set/meteorite.json"
-hash = "763fa6ea23c5cc39c4d712a8d90798046e3df6ff50bdfcbdc39afed0efc3bd58"
+hash = "95e7233cce183e59b6a402236d4e4092149c7b7973aba52529a372926f91382f"
 
 [[files]]
 file = "kubejs/data/dungeons_arise/worldgen/structure_set/major_structures.json"
-hash = "7f41c9205c72f4200a777d5ac08de7a7e8d1d1185c4ff508fd8cd81dae01da0d"
+hash = "bbe1404cdd2d0679e15d460e810fdc7985be5d382631ed10c86339c899f87167"
 
 [[files]]
 file = "kubejs/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
-hash = "8777243524ad84b4f4cb5a209d8aef424bd08ac2f493dc2e153990eac91189b1"
+hash = "869774a91e762b1cd66250f99857b765ae6241795218c0b87714208f8419f7d1"
 
 [[files]]
 file = "kubejs/data/dungeons_arise_seven_seas/worldgen/structure_set/minor_structures.json"
-hash = "308b2bbcaeac57b75d3ad084a65379eef7c9d2fbcfbc9deffff22816652b18ed"
+hash = "ffc1d71d2475662a0a9be066eb5e32f73285c68fb26cb209cf197f31cf22326d"
 
 [[files]]
 file = "kubejs/data/dungeons_enhanced/worldgen/structure_set/large_dungeon.json"
-hash = "c948a7885edd01593af8e878a75ea9b6d2b3ac2fc0fc19f93589ab92e33c89ca"
+hash = "6701214ba48c2d1cdd6b7a813bf81538ca37a32695011c8fe9d7a0a3827e79ac"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/bench.json"
-hash = "c54073d987127358ed31f96245bf5de82baef12f0fb0b13536b3c0cdf9604ccc"
+hash = "7114755d002cd68893c813b2496e88931c8515a1f9afa7104e45409c8990d0d7"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/duck.json"
-hash = "b87d8f6b649a1eeddbe6d249dca79ab8e44905cfdb9d5e351c9ce36152d48603"
+hash = "1b07e67b8bfe3bdffd585daa52bf4ba7f99b2ba43b365f65e5232f88b4ccc95c"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/fire_camp.json"
-hash = "0ee3a855c18c060a64e1c79ef3187761183c4bba1335296eb72cb8f18e31c34e"
+hash = "a243bc02db71128cc663ce0e658aa8435e6611b6575521268c1e6c6970b6ee3e"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/pile.json"
-hash = "085be1548b2dfa31922dc0bc32be62823571eac15713afe935e6f8b299f203ce"
+hash = "ef8c605fad1a77b0348ea69b0cf820d0d5c3e37ed8ed8b15f6d12a62eb5e5604"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
-hash = "d7ebe543cedde4be244f528869d31840a1443f342f3308f4dce760cf16e99d96"
+hash = "5a137490b4790d080a9964062a90c4a347d4e99ff5b225aa2bddc9de0790b2b1"
 
 [[files]]
 file = "kubejs/data/mvs/worldgen/structure_set/other_decoration/windmill.json"
-hash = "f838779fb659c845b80a2cd0b6a51581f42fc61e9d9f2c071f934cfc281eb986"
+hash = "2f6811f07a18e1984d83b11f1c63107d65223985fcb29efae68b954fed1dd7e3"
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
