@@ -9,6 +9,10 @@ file = "config/JLFork/justleveling-fork.lockItems.json5"
 hash = "1d24839b0aee4feb5c897c22e44935f150400a893e58d0a0b2604405558f578c"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "4feac6951ca54b7ee7ae36f29d6354e7924ef398038a8c0e2016af302ff2d654"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "a147118ec76cfcb66fe989ef32625110cd6643e63cd4847a2795309c6b8a0f6d"
 
@@ -37,6 +41,10 @@ metafile = true
 file = "config/paxi/datapacks/structory.pw.toml"
 hash = "b754aa5de7d8f5deb791c2cf33dc00c81760bcc051e95fe24d1ad64fc5b83adf"
 metafile = true
+
+[[files]]
+file = "config/regions_unexplored/ru-common.toml"
+hash = "859e0a7cd2ae6c7657e8e2f2e488dd7b5b16fe5c747e4a0fd95838b9a74cd5d3"
 
 [[files]]
 file = "config/solonion.json"
@@ -303,6 +311,11 @@ hash = "bcc156e2b2c0a005e2e80688495af1b3e3b05fe1516ff4cdfb2499cde36ab587"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "8ae2e1ef398f47424c27ee106770a92d8f45fb53f36d1068175640b26e45d83a"
+metafile = true
+
+[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "d8d02fce3078ead094005a4a5daada375eb61d2706b444ef437cc1b216149880"
 metafile = true
@@ -320,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
-metafile = true
-
-[[files]]
-file = "mods/bosses-of-mass-destruction-forge.pw.toml"
-hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
 metafile = true
 
 [[files]]
@@ -665,11 +673,6 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "48c89e386fe1dc47dedfce02ccbc9a55ca899e94348ae470a77b3b7022496a58"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "39880e14c5b46496c6c9fd5cdeed67bca74bb99de9f273270918184a525d0942"
 metafile = true
 
 [[files]]
@@ -1210,11 +1213,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
-metafile = true
-
-[[files]]
-file = "mods/no-see-no-tick.pw.toml"
-hash = "713d365033756b4cadbbed2699f795a7962fcbbc993002dabcd2823aaef0b7bd"
 metafile = true
 
 [[files]]
