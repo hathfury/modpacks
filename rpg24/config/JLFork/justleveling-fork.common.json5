@@ -2,7 +2,7 @@
 	// DON'T CHANGE THIS, REQUIRED TO AUTOMATICALLY TRY TO PORT LOCK ITEMS FROM THE OLD CONFIG.
 	usingNewConfig: true,
 	// Should the mod automatically check for updates on load?
-	checkForUpdates: true,
+	checkForUpdates: false,
 	// Aptitudes Max Level
 	aptitudeMaxLevel: 32,
 	// Global max level, the global level is calculated summing all aptitudes level, so if this is set to 32 players will be able to only maximize 1 skill.
@@ -12,7 +12,7 @@
 	// Show potions overlay over skills
 	showPotionsHud: true,
 	// If true, when trying to craft a non unlocked item, it will close the crafting the menu
-	closeCraftingMenu: true,
+	closeCraftingMenu: false,
 	// If true, locked items will be automatically dropped from player hands
 	dropLockedItems: false,
 	// TAC:Zero have a special id system, so if you wanna get the id to restrict you need to enable this and shoot.
