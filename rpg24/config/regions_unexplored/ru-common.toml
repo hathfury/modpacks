@@ -116,4 +116,3 @@
 	#Sets Eucalyptus colour saturation.
 	#Range: 0.0 ~ 1.0
 	eucalyptus_brightness = 0.8
-

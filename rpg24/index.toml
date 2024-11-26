@@ -22,7 +22,7 @@ hash = "92c4d4f980843056c07f05f98e593f287cd3d4e003f30d4505bb5c81a2674091"
 
 [[files]]
 file = "config/globalgamerules-common.toml"
-hash = "a3f3bcccb766895fc57bae36703add225ef0b858e5cabab85b3afcdf47da786c"
+hash = "9fd10933e5bc7804e717de763aa118008a34e1765f3a728b298a8eb8b4edb22e"
 
 [[files]]
 file = "config/improvableskills.cfg"
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "config/regions_unexplored/ru-common.toml"
-hash = "859e0a7cd2ae6c7657e8e2f2e488dd7b5b16fe5c747e4a0fd95838b9a74cd5d3"
+hash = "8ccb2c8fd0e6d6c51908039fd08e2319ac5043c2b8df0184ecfad1b76255f87c"
 
 [[files]]
 file = "config/solonion.json"
@@ -60,11 +60,11 @@ hash = "2de0950a170978fd34610b9411cf463eb8bd9208156ade036f3ff63567d88d3d"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "b9c95cba96997f17291ce30e869ce39655eadcf71e8e2899124302ecd5c829dc"
+hash = "3c13e86756dd5cf858e188b7fc2cb168ca64e836d609d1f5d7c888bad2e5ded5"
 
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
-hash = "7c6bae9b70f25f90b8e87a3cd5d969be9e118d6df12dc5f8ee76698f7c5858a2"
+hash = "2db3846fdbad0adeca7617618a646eba152eaa61ad86b98d2f4e491e3bd7d3cb"
 
 [[files]]
 file = "emotes/sit.animation.json"

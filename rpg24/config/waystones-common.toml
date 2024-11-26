@@ -130,4 +130,3 @@
 	displayWaystonesOnJourneyMap = true
 	#If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
 	preferJourneyMapIntegration = true
-
